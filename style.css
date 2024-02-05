@@ -1,13 +1,3 @@
-/* CSS Positions : Static = this is by by default
-                 : Relative = relative to its own body 
-                 : Absolute = relative to its parent body
-                 : Sticky = its means its stick to its position while scrolling 
-                 : Fixed = its means it dont move while scrolling stays on place 
-                 
-                 z-index : will work for all positions except static ( default )*/
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,900&family=Cabin&family=Jost:ital@1&family=Lato:ital,wght@1,300&family=Poppins:wght@400;700&family=Roboto:ital,wght@0,400;1,700&display=swap'); 
 
 * {
