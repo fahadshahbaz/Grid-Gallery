@@ -11,4 +11,4 @@ Welcome to the **Grid Gallery** project! This project showcases a responsive gri
 - **Easy Customization**: The project is designed to be easily customizable. You can tweak the grid structure, styling, and other aspects to match your specific needs.
 
 # Demo
-For a live demo, check out this link 🔗: 
+For a live demo, check out this link 🔗: https://fahadshahbaz.github.io/Grid-Gallery/
