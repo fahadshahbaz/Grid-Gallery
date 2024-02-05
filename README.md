@@ -12,5 +12,6 @@ Welcome to the **Grid Gallery** project! This project showcases a responsive gri
 
 # Demo
 For a live demo, check out this link 🔗: https://fahadshahbaz.github.io/Grid-Gallery/
-![Uploading image.png…]()
+![image](https://github.com/fahadshahbaz/Grid-Gallery/assets/139986354/8019d076-8573-4818-b8b8-ebface58279d)
+
 
